@@ -2,6 +2,8 @@
 
 A collaborative filtering-based book recommendation system built with Python and Streamlit. This application uses K-Nearest Neighbors (KNN) algorithm to suggest books similar to a user's selection based on user ratings data.
 
+🔗 **Live Demo**: [https://books-recommender-system-vineet416.streamlit.app/](https://books-recommender-system-vineet416.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)
