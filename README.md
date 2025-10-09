@@ -59,15 +59,14 @@ Books Recommender Project/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vineet416/Books_Recommender_System.git
    cd "Books Recommender Project"
    ```
 
 2. **Create a virtual environment** (recommended)
    ```bash
-   python -m venv env
-   env\Scripts\activate  # On Windows
-   # source env/bin/activate  # On macOS/Linux
+   conda create -n env python=3.11
+   conda activate env/
    ```
 
 3. **Install dependencies**
